@@ -1,6 +1,6 @@
 # hesaplama
 
-3D yazıcı maliyet hesaplama aracı
+3D yazıcı maliyet hesaplama aracı. Bu araç sayesinde 3D yazıcnızda bastığınız modelin maliyetini öğrenebilirsiniz.
 
 ## Getting Started
 
